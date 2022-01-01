@@ -8,12 +8,13 @@
   icon: 'fab fa-facebook'
   url: 'https://www.facebook.com/thinhit127'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
--
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
+#   -
+#   type: twitter
+#   icon: 'fab fa-twitter'
+#   url: 'https://twitter.com/thinh7174'
 # -
 #   type: rss
 #   icon: 'fas fa-rss'
