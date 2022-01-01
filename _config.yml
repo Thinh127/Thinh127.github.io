@@ -47,7 +47,7 @@ social:
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/thinhit127
-    - https://www.linkedin.com/in/phamthinh127
+    # - https://www.linkedin.com/in/phamthinh127
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
