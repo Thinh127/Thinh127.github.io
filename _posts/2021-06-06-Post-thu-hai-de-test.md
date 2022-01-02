@@ -19,7 +19,7 @@ image:
 
 pin: true
 
-published: false
+published: true
 ---
 # 1. Tiêu đề một
 Đây là lịch làm việc đầu tiên trong bài viết. Phần kế tiếp sẽ hiển thị trong tiêu đề với đề mục số 2.
