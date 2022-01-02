@@ -19,8 +19,6 @@ image:
 	height: 500
 	alt: movation image
 
-pin: true
-
 published: true
 ---
 # 1. Tiêu đề một
