@@ -3,11 +3,11 @@ layout: post
 
 title: First test post
 
-date: 2022-01-01
+date: 2020-01-01
 
 categories: Getting start jekyll
 
 tags: ["new post", "first time"]
 ---
 
-this page will appear in '''_post''' folder. This is republic.
+this page will appear in ```_post``` folder. This is republic.
