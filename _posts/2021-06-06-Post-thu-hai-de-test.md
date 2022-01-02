@@ -3,6 +3,8 @@ title: Lich lam viec trong mot ngay
 
 date: 2021-06-06 00:15:00 +/-0127
 
+layout: post
+
 categories: ["getting start", "test post"]
 
 tags: ["should not be seen"]
